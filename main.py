@@ -54,7 +54,7 @@ try:
         print("No flights found for this date.")
     else:
         counter = Counter(destinations)
-        finale=[]
+        finale=[[datetime.datetime.now(datetime.UTC).strftime("%m-%d %H:%M"),' ',' ',' ']]
         for dest, count in counter.most_common(30):
             if dest in target:
                 finale.append([target[dest][1],target[dest][0],dest,count])
