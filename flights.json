@@ -1,6 +1,6 @@
 [
     [
-        "06-04 06:23",
+        "06-04 22:20",
         " ",
         " ",
         " "
@@ -9,31 +9,37 @@
         "Taipei",
         "RCTP",
         "TPE",
-        32
-    ],
-    [
-        "ShangHai PuDong",
-        "ZSPD",
-        "PVG",
-        19
-    ],
-    [
-        "Bang Kok",
-        "VTBS",
-        "BKK",
-        18
+        35
     ],
     [
         "Incheon",
         "RKSI",
         "ICN",
+        21
+    ],
+    [
+        "ShangHai PuDong",
+        "ZSPD",
+        "PVG",
+        20
+    ],
+    [
+        "Bang Kok",
+        "VTBS",
+        "BKK",
         17
     ],
     [
         "Narita",
         "RJAA",
         "NRT",
-        17
+        16
+    ],
+    [
+        "Manila",
+        "RPLL",
+        "MNL",
+        16
     ],
     [
         "Kansai",
@@ -42,21 +48,15 @@
         15
     ],
     [
-        "BeiJing",
-        "ZBAA",
-        "PEK",
-        15
-    ],
-    [
-        "Manila",
-        "RPLL",
-        "MNL",
-        15
-    ],
-    [
         "Singapore",
         "WSSS",
         "SIN",
+        14
+    ],
+    [
+        "BeiJing",
+        "ZBAA",
+        "PEK",
         13
     ],
     [
@@ -72,12 +72,6 @@
         9
     ],
     [
-        "Kuala Lumpur",
-        "WMKK",
-        "KUL",
-        8
-    ],
-    [
         "Haneda",
         "RJTT",
         "HND",
@@ -90,15 +84,33 @@
         7
     ],
     [
+        "Kuala Lumpur",
+        "WMKK",
+        "KUL",
+        7
+    ],
+    [
         "///",
         "///",
         "LHR",
         6
     ],
     [
+        "Ho Chi Minh",
+        "VVTS",
+        "SGN",
+        6
+    ],
+    [
         "ShangHai HongQiao",
         "ZSSS",
         "SHA",
+        6
+    ],
+    [
+        "ChengDu",
+        "ZUUU",
+        "TFU",
         6
     ],
     [
@@ -110,13 +122,13 @@
     [
         "///",
         "///",
-        "SYD",
+        "YVR",
         5
     ],
     [
-        "Ho Chi Minh",
-        "VVTS",
-        "SGN",
+        "Naha",
+        "ROAH",
+        "OKA",
         5
     ],
     [
@@ -126,9 +138,9 @@
         5
     ],
     [
-        "ChengDu",
-        "ZUUU",
-        "TFU",
+        "BeiJing DaXing",
+        "ZBAD",
+        "PKX",
         5
     ],
     [
@@ -140,7 +152,7 @@
     [
         "///",
         "///",
-        "YVR",
+        "SYD",
         4
     ],
     [
@@ -150,39 +162,27 @@
         4
     ],
     [
-        "Naha",
-        "ROAH",
-        "OKA",
-        4
-    ],
-    [
         "Delhi",
         "VIDP",
         "DEL",
         4
     ],
     [
-        "BeiJing DaXing",
-        "ZBAD",
-        "PKX",
+        "Jakarta",
+        "WIII",
+        "CGK",
         4
     ],
     [
-        "HaiKou",
-        "ZJHK",
-        "HAK",
+        "NanJing",
+        "ZSNJ",
+        "NKG",
         4
-    ],
-    [
-        "GuangZhou",
-        "ZGGG",
-        "CAN",
-        3
     ],
     [
         "///",
         "///",
-        "URC",
+        "AMS",
         3
     ]
 ]
