@@ -1,0 +1,25 @@
+yamlname: Auto Run Python Script
+
+on:
+  # Triggers the script every day at midnight UTC
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+
+      - name: Set up Python environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies (optional)
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Execute Python script
+        run: python main.py
