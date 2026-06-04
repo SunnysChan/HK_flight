@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flight Data Table</title>
+    <style>
+        body { font-family: sans-serif; margin: 40px; background: #f4f6f9; }
+        table { width: 100%; border-collapse: collapse; background: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background-color: #007bff; color: white; }
+        tr:hover { background-color: #f1f1f1; }
+    </style>
+</head>
+<body>
+
+    <h2>Live Flight Data</h2>
+    <table id="flight-table">
+        <thead>
+            <tr><th>Name</th><th>IATA</th><th>ICAO</th><th>Count</th></tr>
+        </thead>
+        <tbody>
+            <!-- Data will be inserted here dynamically -->
+        </tbody>
+    </table>
+
+    <script>
+        // Fetch the flights.json file from the same directory
+        fetch('flights.json')
+            .then(response => response.json())
+            .then(data => {
+                const tbody = document.querySelector('#flight-table tbody');
+                
+                // Loop through the 2D array rows
+                data.forEach(row => {
+                    const tr = document.createElement('tr');
+                    
+                    // Loop through the items in each row (up to 4 columns A, B, C, D)
+                    row.forEach(cellText => {
+                        const td = document.createElement('td');
+                        td.textContent = cellText;
+                        tr.appendChild(td);
+                    });
+                    
+                    tbody.appendChild(tr);
+                });
+            })
+            .catch(error => console.error('Error loading flight data:', error));
+    </script>
+
+</body>
+</html>
