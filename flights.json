@@ -1,6 +1,6 @@
 [
     [
-        "06-12 22:01",
+        "06-13 21:39",
         " ",
         " ",
         " "
@@ -9,7 +9,13 @@
         "Taipei",
         "RCTP",
         "TPE",
-        36
+        34
+    ],
+    [
+        "Incheon",
+        "RKSI",
+        "ICN",
+        20
     ],
     [
         "ShangHai PuDong",
@@ -18,16 +24,10 @@
         20
     ],
     [
-        "Incheon",
-        "RKSI",
-        "ICN",
-        19
-    ],
-    [
         "Narita",
         "RJAA",
         "NRT",
-        18
+        19
     ],
     [
         "Kansai",
@@ -42,39 +42,33 @@
         16
     ],
     [
-        "Singapore",
-        "WSSS",
-        "SIN",
-        13
-    ],
-    [
         "BeiJing",
         "ZBAA",
         "PEK",
-        13
+        15
     ],
     [
         "Manila",
         "RPLL",
         "MNL",
-        13
+        15
+    ],
+    [
+        "Singapore",
+        "WSSS",
+        "SIN",
+        14
     ],
     [
         "Kaohsiung",
         "RCKH",
         "KHH",
-        10
+        9
     ],
     [
         "Fukuoka",
         "RJFF",
         "FUK",
-        8
-    ],
-    [
-        "HangZhou",
-        "ZSHC",
-        "HGH",
         8
     ],
     [
@@ -84,15 +78,27 @@
         8
     ],
     [
-        "///",
-        "///",
-        "LHR",
+        "HangZhou",
+        "ZSHC",
+        "HGH",
         7
     ],
     [
         "Kuala Lumpur",
         "WMKK",
         "KUL",
+        7
+    ],
+    [
+        "ShangHai HongQiao",
+        "ZSSS",
+        "SHA",
+        7
+    ],
+    [
+        "ChengDu",
+        "ZUUU",
+        "TFU",
         7
     ],
     [
@@ -104,14 +110,20 @@
     [
         "///",
         "///",
-        "SYD",
+        "LHR",
         6
     ],
     [
-        "ChengDu",
-        "ZUUU",
-        "TFU",
-        6
+        "///",
+        "///",
+        "SYD",
+        5
+    ],
+    [
+        "Naha",
+        "ROAH",
+        "OKA",
+        5
     ],
     [
         "Ho Chi Minh",
@@ -120,15 +132,9 @@
         5
     ],
     [
-        "ShangHai HongQiao",
-        "ZSSS",
-        "SHA",
-        5
-    ],
-    [
-        "NanJing",
-        "ZSNJ",
-        "NKG",
+        "BeiJing DaXing",
+        "ZBAD",
+        "PKX",
         5
     ],
     [
@@ -150,9 +156,9 @@
         4
     ],
     [
-        "Naha",
-        "ROAH",
-        "OKA",
+        "Ha Noi",
+        "VVNB",
+        "HAN",
         4
     ],
     [
@@ -168,9 +174,9 @@
         4
     ],
     [
-        "BeiJing DaXing",
-        "ZBAD",
-        "PKX",
+        "Jakarta",
+        "WIII",
+        "CGK",
         4
     ],
     [
@@ -178,11 +184,5 @@
         "ZJHK",
         "HAK",
         4
-    ],
-    [
-        "///",
-        "///",
-        "FRA",
-        3
     ]
 ]
