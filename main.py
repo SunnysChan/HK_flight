@@ -55,7 +55,7 @@ try:
     else:
         counter = Counter(destinations)
         finale=[[datetime.datetime.now(datetime.UTC).strftime("%m-%d %H:%M"),' ',' ',' ']]
-        for dest, count in counter.most_common(30):
+        for dest, count in counter.most_common(40):
             if dest in target:
                 finale.append([target[dest][1],target[dest][0],dest,count])
             else:
