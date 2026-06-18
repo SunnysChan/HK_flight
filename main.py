@@ -44,7 +44,7 @@ target={'BKK': ['VTBS','Bang Kok'],'PEK': ['ZBAA','BeiJing'],'TFU': ['ZUUU','Che
         'ICN': ['RKSI','Incheon'],'CGK': ['WIII','Jakarta'],'KIX': ['RJBB','Kansai'],'KHH': ['RCKH','Kaohsiung'],'KUL': ['WMKK','Kuala Lumpur'],
         'MNL': ['RPLL','Manila'],'OKA': ['ROAH','Naha'],'NRT': ['RJAA','Narita'],'SHA': ['ZSSS','ShangHai HongQiao'],'PVG': ['ZSPD','ShangHai PuDong'],
         'SIN': ['WSSS','Singapore'],'TPE': ['RCTP','Taipei'],'PKX':['ZBAD','BeiJing DaXing'],'HAN':['VVNB','Ha Noi'],'NKG':['ZSNJ','NanJing'],
-        'PQC':['VVPQ','Phu'],'CAN':['ZGGG','GuangZhou']}
+        'PQC':['VVPQ','Phu'],'CAN':['ZGGG','GuangZhou'],'DPS':['WADD','Ngurah Rai'],'CEB':['RPVM','Cebu'],'RMQ':['RCMQ','Tai Chung']}
 
 try:
     data = get_departures_by_date()
