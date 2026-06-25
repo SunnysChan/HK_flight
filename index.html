@@ -63,6 +63,7 @@
     
                     // Join by comma without spaces
                     const resultText = filteredICAOs.join(',');
+                    resultText = resultText + ",VMMC,ZGGG,ZGSZ"
     
                     // Display the result
                     outputElement.textContent = resultText || "No airports matched the criteria.";
