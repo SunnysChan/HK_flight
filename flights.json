@@ -1,6 +1,6 @@
 [
     [
-        "06-26 21:41",
+        "06-27 21:31",
         " ",
         " ",
         " "
@@ -9,13 +9,13 @@
         "Taipei",
         "RCTP",
         "TPE",
-        36
+        35
     ],
     [
         "ShangHai PuDong",
         "ZSPD",
         "PVG",
-        21
+        22
     ],
     [
         "Narita",
@@ -36,16 +36,22 @@
         17
     ],
     [
-        "Manila",
-        "RPLL",
-        "MNL",
-        16
-    ],
-    [
         "Kansai",
         "RJBB",
         "KIX",
         15
+    ],
+    [
+        "Manila",
+        "RPLL",
+        "MNL",
+        15
+    ],
+    [
+        "Singapore",
+        "WSSS",
+        "SIN",
+        14
     ],
     [
         "BeiJing",
@@ -54,22 +60,10 @@
         14
     ],
     [
-        "Singapore",
-        "WSSS",
-        "SIN",
-        12
-    ],
-    [
         "Kaohsiung",
         "RCKH",
         "KHH",
-        11
-    ],
-    [
-        "Haneda",
-        "RJTT",
-        "HND",
-        9
+        10
     ],
     [
         "Fukuoka",
@@ -84,21 +78,27 @@
         8
     ],
     [
-        "Kuala Lumpur",
-        "WMKK",
-        "KUL",
+        "Haneda",
+        "RJTT",
+        "HND",
         8
-    ],
-    [
-        "///",
-        "///",
-        "LHR",
-        7
     ],
     [
         "ChengDu",
         "ZUUU",
         "TFU",
+        8
+    ],
+    [
+        "Kuala Lumpur",
+        "WMKK",
+        "KUL",
+        7
+    ],
+    [
+        "ShangHai HongQiao",
+        "ZSSS",
+        "SHA",
         7
     ],
     [
@@ -114,9 +114,21 @@
         6
     ],
     [
+        "///",
+        "///",
+        "LHR",
+        6
+    ],
+    [
         "Ho Chi Minh",
         "VVTS",
         "SGN",
+        6
+    ],
+    [
+        "Naha",
+        "ROAH",
+        "OKA",
         5
     ],
     [
@@ -126,9 +138,9 @@
         5
     ],
     [
-        "ShangHai HongQiao",
-        "ZSSS",
-        "SHA",
+        "BeiJing DaXing",
+        "ZBAD",
+        "PKX",
         5
     ],
     [
@@ -156,21 +168,9 @@
         4
     ],
     [
-        "Naha",
-        "ROAH",
-        "OKA",
-        4
-    ],
-    [
         "Ha Noi",
         "VVNB",
         "HAN",
-        4
-    ],
-    [
-        "Phu Quoc",
-        "VVPQ",
-        "PQC",
         4
     ],
     [
@@ -189,6 +189,12 @@
         "Nagoya",
         "RJGG",
         "NGO",
+        4
+    ],
+    [
+        "HaiKou",
+        "ZJHK",
+        "HAK",
         4
     ],
     [
@@ -216,9 +222,9 @@
         3
     ],
     [
-        "///",
-        "///",
-        "YYZ",
+        "Phu Quoc",
+        "VVPQ",
+        "PQC",
         3
     ],
     [
@@ -234,15 +240,9 @@
         3
     ],
     [
-        "Chitose",
-        "RJCC",
-        "CTS",
-        3
-    ],
-    [
-        "Qing Dao",
-        "ZSQD",
-        "TAO",
+        "Phuket",
+        "VTSP",
+        "HKT",
         3
     ]
 ]
