@@ -1,6 +1,6 @@
 [
     [
-        "07-12 21:07",
+        "07-13 21:13",
         " ",
         " ",
         " "
@@ -9,19 +9,7 @@
         "Taipei",
         "RCTP",
         "TPE",
-        38
-    ],
-    [
-        "ShangHai PuDong",
-        "ZSPD",
-        "PVG",
-        24
-    ],
-    [
-        "Incheon",
-        "RKSI",
-        "ICN",
-        21
+        35
     ],
     [
         "Narita",
@@ -33,6 +21,18 @@
         "Bang Kok",
         "VTBS",
         "BKK",
+        20
+    ],
+    [
+        "ShangHai PuDong",
+        "ZSPD",
+        "PVG",
+        20
+    ],
+    [
+        "Incheon",
+        "RKSI",
+        "ICN",
         19
     ],
     [
@@ -51,25 +51,25 @@
         "BeiJing",
         "ZBAA",
         "PEK",
-        15
+        16
     ],
     [
         "Singapore",
         "WSSS",
         "SIN",
-        14
+        13
+    ],
+    [
+        "Fukuoka",
+        "RJFF",
+        "FUK",
+        10
     ],
     [
         "Kaohsiung",
         "RCKH",
         "KHH",
         10
-    ],
-    [
-        "Fukuoka",
-        "RJFF",
-        "FUK",
-        9
     ],
     [
         "HangZhou",
@@ -108,9 +108,9 @@
         6
     ],
     [
-        "Ho Chi Minh",
-        "VVTS",
-        "SGN",
+        "///",
+        "///",
+        "LHR",
         6
     ],
     [
@@ -138,15 +138,9 @@
         5
     ],
     [
-        "///",
-        "///",
-        "YVR",
-        5
-    ],
-    [
-        "///",
-        "///",
-        "LHR",
+        "Ho Chi Minh",
+        "VVTS",
+        "SGN",
         5
     ],
     [
@@ -164,6 +158,18 @@
     [
         "///",
         "///",
+        "FRA",
+        4
+    ],
+    [
+        "///",
+        "///",
+        "YVR",
+        4
+    ],
+    [
+        "///",
+        "///",
         "SFO",
         4
     ],
@@ -174,21 +180,15 @@
         4
     ],
     [
+        "Phu Quoc",
+        "VVPQ",
+        "PQC",
+        4
+    ],
+    [
         "Tai Chung",
         "RCMQ",
         "RMQ",
-        4
-    ],
-    [
-        "Phuket",
-        "VTSP",
-        "HKT",
-        4
-    ],
-    [
-        "Chitose",
-        "RJCC",
-        "CTS",
         4
     ],
     [
@@ -206,7 +206,7 @@
     [
         "///",
         "///",
-        "FRA",
+        "AMS",
         3
     ],
     [
@@ -222,6 +222,18 @@
         3
     ],
     [
+        "///",
+        "///",
+        "IST",
+        3
+    ],
+    [
+        "Jeju",
+        "RKPC",
+        "CJU",
+        3
+    ],
+    [
         "Ngurah Rai",
         "WADD",
         "DPS",
@@ -231,18 +243,6 @@
         "///",
         "///",
         "JFK",
-        3
-    ],
-    [
-        "///",
-        "///",
-        "YYZ",
-        3
-    ],
-    [
-        "Chong Qing",
-        "ZUCK",
-        "CKG",
         3
     ]
 ]
