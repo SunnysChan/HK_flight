@@ -1,6 +1,6 @@
 [
     [
-        "07-19 21:08",
+        "07-20 21:33",
         " ",
         " ",
         " "
@@ -9,13 +9,7 @@
         "Taipei",
         "RCTP",
         "TPE",
-        38
-    ],
-    [
-        "Incheon",
-        "RKSI",
-        "ICN",
-        22
+        36
     ],
     [
         "Bang Kok",
@@ -36,10 +30,16 @@
         20
     ],
     [
+        "Incheon",
+        "RKSI",
+        "ICN",
+        19
+    ],
+    [
         "Kansai",
         "RJBB",
         "KIX",
-        17
+        16
     ],
     [
         "Manila",
@@ -57,19 +57,19 @@
         "Singapore",
         "WSSS",
         "SIN",
-        14
-    ],
-    [
-        "Kaohsiung",
-        "RCKH",
-        "KHH",
-        11
+        13
     ],
     [
         "Fukuoka",
         "RJFF",
         "FUK",
-        10
+        11
+    ],
+    [
+        "Kaohsiung",
+        "RCKH",
+        "KHH",
+        9
     ],
     [
         "HangZhou",
@@ -78,16 +78,22 @@
         8
     ],
     [
-        "Kuala Lumpur",
-        "WMKK",
-        "KUL",
-        8
-    ],
-    [
         "Haneda",
         "RJTT",
         "HND",
         8
+    ],
+    [
+        "///",
+        "///",
+        "LHR",
+        7
+    ],
+    [
+        "Kuala Lumpur",
+        "WMKK",
+        "KUL",
+        7
     ],
     [
         "ChengDu",
@@ -98,25 +104,25 @@
     [
         "///",
         "///",
-        "SYD",
+        "LAX",
         6
     ],
     [
         "///",
         "///",
-        "LAX",
+        "SYD",
+        6
+    ],
+    [
+        "Da Nang",
+        "VVDN",
+        "DAD",
         6
     ],
     [
         "Naha",
         "ROAH",
         "OKA",
-        6
-    ],
-    [
-        "Ho Chi Minh",
-        "VVTS",
-        "SGN",
         6
     ],
     [
@@ -132,27 +138,9 @@
         6
     ],
     [
-        "///",
-        "///",
-        "MEL",
-        5
-    ],
-    [
-        "///",
-        "///",
-        "YVR",
-        5
-    ],
-    [
-        "///",
-        "///",
-        "LHR",
-        5
-    ],
-    [
-        "Da Nang",
-        "VVDN",
-        "DAD",
+        "Ho Chi Minh",
+        "VVTS",
+        "SGN",
         5
     ],
     [
@@ -160,6 +148,18 @@
         "ZSNJ",
         "NKG",
         5
+    ],
+    [
+        "///",
+        "///",
+        "MEL",
+        4
+    ],
+    [
+        "///",
+        "///",
+        "YVR",
+        4
     ],
     [
         "///",
@@ -174,27 +174,15 @@
         4
     ],
     [
+        "Phu Quoc",
+        "VVPQ",
+        "PQC",
+        4
+    ],
+    [
         "Tai Chung",
         "RCMQ",
         "RMQ",
-        4
-    ],
-    [
-        "Phuket",
-        "VTSP",
-        "HKT",
-        4
-    ],
-    [
-        "Chitose",
-        "RJCC",
-        "CTS",
-        4
-    ],
-    [
-        "Jakarta",
-        "WIII",
-        "CGK",
         4
     ],
     [
@@ -206,7 +194,7 @@
     [
         "///",
         "///",
-        "FRA",
+        "AMS",
         3
     ],
     [
@@ -222,6 +210,12 @@
         3
     ],
     [
+        "Jeju",
+        "RKPC",
+        "CJU",
+        3
+    ],
+    [
         "Ngurah Rai",
         "WADD",
         "DPS",
@@ -234,15 +228,21 @@
         3
     ],
     [
-        "///",
-        "///",
-        "YYZ",
+        "Cebu",
+        "RPVM",
+        "CEB",
         3
     ],
     [
-        "Chong Qing",
-        "ZUCK",
-        "CKG",
+        "Malaysia Penang",
+        "WMKP",
+        "PEN",
+        3
+    ],
+    [
+        "Delhi",
+        "VIDP",
+        "DEL",
         3
     ]
 ]
