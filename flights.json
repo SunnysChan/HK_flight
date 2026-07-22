@@ -1,6 +1,6 @@
 [
     [
-        "07-21 21:34",
+        "07-22 21:30",
         " ",
         " ",
         " "
@@ -9,13 +9,13 @@
         "Taipei",
         "RCTP",
         "TPE",
-        35
+        36
     ],
     [
         "Bang Kok",
         "VTBS",
         "BKK",
-        22
+        23
     ],
     [
         "ShangHai PuDong",
@@ -57,19 +57,19 @@
         "Singapore",
         "WSSS",
         "SIN",
-        13
-    ],
-    [
-        "Kaohsiung",
-        "RCKH",
-        "KHH",
-        11
+        14
     ],
     [
         "Fukuoka",
         "RJFF",
         "FUK",
-        10
+        11
+    ],
+    [
+        "Kaohsiung",
+        "RCKH",
+        "KHH",
+        9
     ],
     [
         "HangZhou",
@@ -93,13 +93,7 @@
         "ChengDu",
         "ZUUU",
         "TFU",
-        8
-    ],
-    [
-        "///",
-        "///",
-        "SYD",
-        6
+        7
     ],
     [
         "///",
@@ -108,9 +102,9 @@
         6
     ],
     [
-        "Naha",
-        "ROAH",
-        "OKA",
+        "///",
+        "///",
+        "SYD",
         6
     ],
     [
@@ -138,15 +132,9 @@
         6
     ],
     [
-        "///",
-        "///",
-        "MEL",
-        5
-    ],
-    [
-        "///",
-        "///",
-        "YVR",
+        "Naha",
+        "ROAH",
+        "OKA",
         5
     ],
     [
@@ -160,6 +148,18 @@
         "ZSNJ",
         "NKG",
         5
+    ],
+    [
+        "///",
+        "///",
+        "MEL",
+        4
+    ],
+    [
+        "///",
+        "///",
+        "YVR",
+        4
     ],
     [
         "///",
@@ -180,15 +180,9 @@
         4
     ],
     [
-        "Phuket",
-        "VTSP",
-        "HKT",
-        4
-    ],
-    [
-        "Jakarta",
-        "WIII",
-        "CGK",
+        "Chitose",
+        "RJCC",
+        "CTS",
         4
     ],
     [
@@ -204,9 +198,9 @@
         3
     ],
     [
-        "Busan",
-        "RKPK",
-        "PUS",
+        "Jeju",
+        "RKPC",
+        "CJU",
         3
     ],
     [
@@ -234,15 +228,21 @@
         3
     ],
     [
-        "Delhi",
-        "VIDP",
-        "DEL",
+        "Cebu",
+        "RPVM",
+        "CEB",
         3
     ],
     [
-        "///",
-        "///",
-        "FOC",
+        "Chong Qing",
+        "ZUCK",
+        "CKG",
+        3
+    ],
+    [
+        "Malaysia Penang",
+        "WMKP",
+        "PEN",
         3
     ]
 ]
