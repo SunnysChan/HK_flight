@@ -39,7 +39,7 @@ def extract_destinations(flight_data):
 
     return destinations
 
-target={'BKK': ['VTBS','Bang Kok'],'PEK': ['ZBAA','BeiJing'],'TFU': ['ZUUU','ChengDu'],'DAD': ['VVDN','Da Nang'],'DEL': ['VIDP','Delhi'],
+target={'BKK': ['VTBS','Bang Kok'],'PEK': ['ZBAA','BeiJing'],'TFU': ['ZUUU','ChengDu Tianfu'],'DAD': ['VVDN','Da Nang'],'DEL': ['VIDP','Delhi'],
         'FUK': ['RJFF','Fukuoka'],'HAK': ['ZJHK','HaiKou'],'HND': ['RJTT','Haneda'],'HGH': ['ZSHC','HangZhou'],'SGN': ['VVTS','Ho Chi Minh'],
         'ICN': ['RKSI','Incheon'],'CGK': ['WIII','Jakarta'],'KIX': ['RJBB','Kansai'],'KHH': ['RCKH','Kaohsiung'],'KUL': ['WMKK','Kuala Lumpur'],
         'MNL': ['RPLL','Manila'],'OKA': ['ROAH','Naha'],'NRT': ['RJAA','Narita'],'SHA': ['ZSSS','ShangHai HongQiao'],'PVG': ['ZSPD','ShangHai PuDong'],
@@ -47,7 +47,7 @@ target={'BKK': ['VTBS','Bang Kok'],'PEK': ['ZBAA','BeiJing'],'TFU': ['ZUUU','Che
         'PQC':['VVPQ','Phu Quoc'],'CAN':['ZGGG','GuangZhou'],'DPS':['WADD','Ngurah Rai'],'CEB':['RPVM','Cebu'],'RMQ':['RCMQ','Tai Chung'],
         'URC':['ZWWW','Urumqi Tianshan'],'KTI':['VDTI','Cambodia Phnom Penh'],'CRK':['RPLC','Philippines Clark'],'CTS':['RJCC','Chitose'],'TAO':['ZSQD','Qing Dao'],
         'KMG':['ZPPP','Kun Ming'],'CKG':['ZUCK','Chong Qing'],'PUS':['RKPK','Busan'],'HKT':['VTSP','Phuket'],'NGO':['RJGG','Nagoya'],'PEN':['WMKP','Malaysia Penang'],
-        'CJU':['RKPC','Jeju'],'FOC':['ZSFZ','Fu Zhou'],'WUH':['ZHHH','Wu Han']}
+        'CJU':['RKPC','Jeju'],'FOC':['ZSFZ','Fu Zhou'],'WUH':['ZHHH','Wu Han'],'CTU':['ZUUU','Chengdu Shuangliu']}
 
 try:
     data = get_departures_by_date()
