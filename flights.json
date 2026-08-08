@@ -1,6 +1,6 @@
 [
     [
-        "08-07 21:00",
+        "08-08 20:49",
         " ",
         " ",
         " "
@@ -9,7 +9,7 @@
         "Taipei",
         "RCTP",
         "TPE",
-        38
+        36
     ],
     [
         "Bang Kok",
@@ -21,7 +21,7 @@
         "ShangHai PuDong",
         "ZSPD",
         "PVG",
-        22
+        21
     ],
     [
         "Incheon",
@@ -39,7 +39,7 @@
         "Kansai",
         "RJBB",
         "KIX",
-        17
+        18
     ],
     [
         "BeiJing",
@@ -57,7 +57,7 @@
         "Singapore",
         "WSSS",
         "SIN",
-        13
+        14
     ],
     [
         "Kaohsiung",
@@ -70,6 +70,12 @@
         "RJFF",
         "FUK",
         10
+    ],
+    [
+        "Naha",
+        "ROAH",
+        "OKA",
+        9
     ],
     [
         "HangZhou",
@@ -90,9 +96,9 @@
         8
     ],
     [
-        "///",
-        "///",
-        "LHR",
+        "ShangHai HongQiao",
+        "ZSSS",
+        "SHA",
         7
     ],
     [
@@ -114,34 +120,34 @@
         6
     ],
     [
-        "Naha",
-        "ROAH",
-        "OKA",
+        "///",
+        "///",
+        "LHR",
         6
     ],
     [
         "Ho Chi Minh",
         "VVTS",
         "SGN",
-        5
+        6
     ],
     [
         "BeiJing DaXing",
         "ZBAD",
         "PKX",
-        5
-    ],
-    [
-        "ShangHai HongQiao",
-        "ZSSS",
-        "SHA",
-        5
+        6
     ],
     [
         "Chengdu Shuangliu",
         "ZUUU",
         "CTU",
         5
+    ],
+    [
+        "Philippines Clark",
+        "RPLC",
+        "CRK",
+        4
     ],
     [
         "///",
@@ -168,21 +174,15 @@
         4
     ],
     [
-        "Phu Quoc",
-        "VVPQ",
-        "PQC",
-        4
-    ],
-    [
         "Tai Chung",
         "RCMQ",
         "RMQ",
         4
     ],
     [
-        "Chitose",
-        "RJCC",
-        "CTS",
+        "Phuket",
+        "VTSP",
+        "HKT",
         4
     ],
     [
@@ -204,15 +204,15 @@
         4
     ],
     [
-        "GuangZhou",
-        "ZGGG",
-        "CAN",
+        "///",
+        "///",
+        "FRA",
         3
     ],
     [
-        "Busan",
-        "RKPK",
-        "PUS",
+        "GuangZhou",
+        "ZGGG",
+        "CAN",
         3
     ],
     [
@@ -228,21 +228,21 @@
         3
     ],
     [
-        "///",
-        "///",
-        "YYZ",
+        "Phu Quoc",
+        "VVPQ",
+        "PQC",
         3
     ],
     [
-        "Delhi",
-        "VIDP",
-        "DEL",
+        "Cebu",
+        "RPVM",
+        "CEB",
         3
     ],
     [
-        "Cambodia Phnom Penh",
-        "VDTI",
-        "KTI",
+        "Malaysia Penang",
+        "WMKP",
+        "PEN",
         3
     ]
 ]
