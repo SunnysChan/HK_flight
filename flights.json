@@ -1,6 +1,6 @@
 [
     [
-        "09-08 22:42",
+        "09-09 22:34",
         " ",
         " ",
         " "
@@ -9,18 +9,24 @@
         "Taipei",
         "RCTP",
         "TPE",
-        31
+        32
     ],
     [
-        "Incheon",
-        "RKSI",
-        "ICN",
-        19
+        "ShangHai PuDong",
+        "ZSPD",
+        "PVG",
+        20
     ],
     [
         "Bang Kok",
         "VTBS",
         "BKK",
+        18
+    ],
+    [
+        "Incheon",
+        "RKSI",
+        "ICN",
         17
     ],
     [
@@ -30,34 +36,28 @@
         16
     ],
     [
-        "Manila",
-        "RPLL",
-        "MNL",
-        14
-    ],
-    [
         "Kansai",
         "RJBB",
         "KIX",
         14
     ],
     [
-        "ShangHai PuDong",
-        "ZSPD",
-        "PVG",
-        14
-    ],
-    [
         "Singapore",
         "WSSS",
         "SIN",
-        13
+        14
     ],
     [
         "BeiJing",
         "ZBAA",
         "PEK",
-        13
+        14
+    ],
+    [
+        "Manila",
+        "RPLL",
+        "MNL",
+        10
     ],
     [
         "Kaohsiung",
@@ -66,9 +66,21 @@
         10
     ],
     [
+        "Haneda",
+        "RJTT",
+        "HND",
+        8
+    ],
+    [
         "Fukuoka",
         "RJFF",
         "FUK",
+        8
+    ],
+    [
+        "HangZhou",
+        "ZSHC",
+        "HGH",
         7
     ],
     [
@@ -78,21 +90,15 @@
         7
     ],
     [
-        "Haneda",
-        "RJTT",
-        "HND",
-        7
-    ],
-    [
         "///",
         "///",
         "LAX",
         6
     ],
     [
-        "HangZhou",
-        "ZSHC",
-        "HGH",
+        "///",
+        "///",
+        "SYD",
         6
     ],
     [
@@ -114,36 +120,6 @@
         6
     ],
     [
-        "///",
-        "///",
-        "MEL",
-        5
-    ],
-    [
-        "///",
-        "///",
-        "SYD",
-        5
-    ],
-    [
-        "///",
-        "///",
-        "YVR",
-        5
-    ],
-    [
-        "Naha",
-        "ROAH",
-        "OKA",
-        5
-    ],
-    [
-        "Da Nang",
-        "VVDN",
-        "DAD",
-        5
-    ],
-    [
         "Chengdu Shuangliu",
         "ZUUU",
         "CTU",
@@ -152,7 +128,49 @@
     [
         "///",
         "///",
+        "MEL",
+        4
+    ],
+    [
+        "///",
+        "///",
+        "YVR",
+        4
+    ],
+    [
+        "///",
+        "///",
         "SFO",
+        4
+    ],
+    [
+        "Urumqi Tianshan",
+        "ZWWW",
+        "URC",
+        4
+    ],
+    [
+        "Naha",
+        "ROAH",
+        "OKA",
+        4
+    ],
+    [
+        "Ha Noi",
+        "VVNB",
+        "HAN",
+        4
+    ],
+    [
+        "Da Nang",
+        "VVDN",
+        "DAD",
+        4
+    ],
+    [
+        "Kun Ming",
+        "ZPPP",
+        "KMG",
         4
     ],
     [
@@ -162,16 +180,10 @@
         4
     ],
     [
-        "Chong Qing",
-        "ZUCK",
-        "CKG",
+        "Nagoya",
+        "RJGG",
+        "NGO",
         4
-    ],
-    [
-        "///",
-        "///",
-        "AMS",
-        3
     ],
     [
         "GuangZhou",
@@ -180,15 +192,9 @@
         3
     ],
     [
-        "Busan",
-        "RKPK",
-        "PUS",
-        3
-    ],
-    [
-        "///",
-        "///",
-        "JFK",
+        "Ngurah Rai",
+        "WADD",
+        "DPS",
         3
     ],
     [
@@ -204,15 +210,21 @@
         3
     ],
     [
-        "Delhi",
-        "VIDP",
-        "DEL",
+        "Chong Qing",
+        "ZUCK",
+        "CKG",
         3
     ],
     [
-        "Urumqi Tianshan",
-        "ZWWW",
-        "URC",
+        "Malaysia Penang",
+        "WMKP",
+        "PEN",
+        3
+    ],
+    [
+        "Delhi",
+        "VIDP",
+        "DEL",
         3
     ],
     [
@@ -222,27 +234,15 @@
         3
     ],
     [
-        "Ha Noi",
-        "VVNB",
-        "HAN",
+        "Cambodia Phnom Penh",
+        "VDTI",
+        "KTI",
         3
     ],
     [
-        "HaiKou",
-        "ZJHK",
-        "HAK",
-        3
-    ],
-    [
-        "NanJing",
-        "ZSNJ",
-        "NKG",
-        3
-    ],
-    [
-        "Nagoya",
-        "RJGG",
-        "NGO",
+        "Chitose",
+        "RJCC",
+        "CTS",
         3
     ]
 ]
