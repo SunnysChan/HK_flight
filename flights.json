@@ -1,6 +1,6 @@
 [
     [
-        "09-24 23:13",
+        "09-25 23:18",
         " ",
         " ",
         " "
@@ -9,7 +9,13 @@
         "Taipei",
         "RCTP",
         "TPE",
-        37
+        35
+    ],
+    [
+        "ShangHai PuDong",
+        "ZSPD",
+        "PVG",
+        21
     ],
     [
         "Incheon",
@@ -18,28 +24,16 @@
         20
     ],
     [
-        "Bang Kok",
-        "VTBS",
-        "BKK",
-        20
-    ],
-    [
-        "ShangHai PuDong",
-        "ZSPD",
-        "PVG",
-        20
-    ],
-    [
         "Narita",
         "RJAA",
         "NRT",
-        19
+        20
     ],
     [
-        "Manila",
-        "RPLL",
-        "MNL",
-        18
+        "Bang Kok",
+        "VTBS",
+        "BKK",
+        19
     ],
     [
         "Kansai",
@@ -54,33 +48,39 @@
         16
     ],
     [
+        "Manila",
+        "RPLL",
+        "MNL",
+        15
+    ],
+    [
         "Singapore",
         "WSSS",
         "SIN",
-        14
-    ],
-    [
-        "Kaohsiung",
-        "RCKH",
-        "KHH",
-        11
-    ],
-    [
-        "HangZhou",
-        "ZSHC",
-        "HGH",
-        9
+        13
     ],
     [
         "Haneda",
         "RJTT",
         "HND",
-        9
+        10
+    ],
+    [
+        "Kaohsiung",
+        "RCKH",
+        "KHH",
+        10
     ],
     [
         "Fukuoka",
         "RJFF",
         "FUK",
+        9
+    ],
+    [
+        "HangZhou",
+        "ZSHC",
+        "HGH",
         8
     ],
     [
@@ -92,31 +92,19 @@
     [
         "///",
         "///",
+        "LHR",
+        7
+    ],
+    [
+        "///",
+        "///",
         "LAX",
         6
     ],
     [
         "///",
         "///",
-        "LHR",
-        6
-    ],
-    [
-        "Ho Chi Minh",
-        "VVTS",
-        "SGN",
-        6
-    ],
-    [
-        "BeiJing DaXing",
-        "ZBAD",
-        "PKX",
-        6
-    ],
-    [
-        "ShangHai HongQiao",
-        "ZSSS",
-        "SHA",
+        "SYD",
         6
     ],
     [
@@ -126,21 +114,15 @@
         5
     ],
     [
-        "///",
-        "///",
-        "SYD",
+        "Urumqi Tianshan",
+        "ZWWW",
+        "URC",
         5
     ],
     [
-        "///",
-        "///",
-        "YVR",
-        5
-    ],
-    [
-        "Naha",
-        "ROAH",
-        "OKA",
+        "Ho Chi Minh",
+        "VVTS",
+        "SGN",
         5
     ],
     [
@@ -150,9 +132,27 @@
         5
     ],
     [
+        "BeiJing DaXing",
+        "ZBAD",
+        "PKX",
+        5
+    ],
+    [
+        "ShangHai HongQiao",
+        "ZSSS",
+        "SHA",
+        5
+    ],
+    [
         "Chengdu Shuangliu",
         "ZUUU",
         "CTU",
+        5
+    ],
+    [
+        "NanJing",
+        "ZSNJ",
+        "NKG",
         5
     ],
     [
@@ -162,15 +162,21 @@
         4
     ],
     [
-        "Ngurah Rai",
-        "WADD",
-        "DPS",
+        "Naha",
+        "ROAH",
+        "OKA",
         4
     ],
     [
         "Ha Noi",
         "VVNB",
         "HAN",
+        4
+    ],
+    [
+        "Phu Quoc",
+        "VVPQ",
+        "PQC",
         4
     ],
     [
@@ -184,24 +190,6 @@
         "RJGG",
         "NGO",
         4
-    ],
-    [
-        "NanJing",
-        "ZSNJ",
-        "NKG",
-        4
-    ],
-    [
-        "Chong Qing",
-        "ZUCK",
-        "CKG",
-        4
-    ],
-    [
-        "///",
-        "///",
-        "PER",
-        3
     ],
     [
         "GuangZhou",
@@ -222,9 +210,15 @@
         3
     ],
     [
-        "Phu Quoc",
-        "VVPQ",
-        "PQC",
+        "///",
+        "///",
+        "YYZ",
+        3
+    ],
+    [
+        "Cebu",
+        "RPVM",
+        "CEB",
         3
     ],
     [
@@ -234,15 +228,21 @@
         3
     ],
     [
-        "Phuket",
-        "VTSP",
-        "HKT",
-        3
-    ],
-    [
         "Delhi",
         "VIDP",
         "DEL",
+        3
+    ],
+    [
+        "Chitose",
+        "RJCC",
+        "CTS",
+        3
+    ],
+    [
+        "Qing Dao",
+        "ZSQD",
+        "TAO",
         3
     ]
 ]
