@@ -1,6 +1,6 @@
 [
     [
-        "10-07 23:35",
+        "10-08 23:44",
         " ",
         " ",
         " "
@@ -9,19 +9,19 @@
         "Taipei",
         "RCTP",
         "TPE",
-        36
+        37
+    ],
+    [
+        "Bang Kok",
+        "VTBS",
+        "BKK",
+        22
     ],
     [
         "ShangHai PuDong",
         "ZSPD",
         "PVG",
         22
-    ],
-    [
-        "Bang Kok",
-        "VTBS",
-        "BKK",
-        21
     ],
     [
         "Incheon",
@@ -33,18 +33,12 @@
         "Narita",
         "RJAA",
         "NRT",
-        20
+        19
     ],
     [
         "Kansai",
         "RJBB",
         "KIX",
-        17
-    ],
-    [
-        "Manila",
-        "RPLL",
-        "MNL",
         16
     ],
     [
@@ -54,10 +48,22 @@
         16
     ],
     [
+        "Manila",
+        "RPLL",
+        "MNL",
+        15
+    ],
+    [
         "Singapore",
         "WSSS",
         "SIN",
         14
+    ],
+    [
+        "Kaohsiung",
+        "RCKH",
+        "KHH",
+        11
     ],
     [
         "Haneda",
@@ -69,18 +75,6 @@
         "Fukuoka",
         "RJFF",
         "FUK",
-        9
-    ],
-    [
-        "HangZhou",
-        "ZSHC",
-        "HGH",
-        9
-    ],
-    [
-        "Kaohsiung",
-        "RCKH",
-        "KHH",
         8
     ],
     [
@@ -90,10 +84,10 @@
         8
     ],
     [
-        "///",
-        "///",
-        "MEL",
-        6
+        "HangZhou",
+        "ZSHC",
+        "HGH",
+        7
     ],
     [
         "///",
@@ -108,9 +102,21 @@
         6
     ],
     [
+        "Naha",
+        "ROAH",
+        "OKA",
+        6
+    ],
+    [
         "///",
         "///",
         "LHR",
+        6
+    ],
+    [
+        "Ho Chi Minh",
+        "VVTS",
+        "SGN",
         6
     ],
     [
@@ -120,27 +126,15 @@
         6
     ],
     [
-        "Naha",
-        "ROAH",
-        "OKA",
+        "///",
+        "///",
+        "MEL",
         5
     ],
     [
         "Ha Noi",
         "VVNB",
         "HAN",
-        5
-    ],
-    [
-        "Phu Quoc",
-        "VVPQ",
-        "PQC",
-        5
-    ],
-    [
-        "Ho Chi Minh",
-        "VVTS",
-        "SGN",
         5
     ],
     [
@@ -156,10 +150,10 @@
         5
     ],
     [
-        "NanJing",
-        "ZSNJ",
-        "NKG",
-        5
+        "///",
+        "///",
+        "YVR",
+        4
     ],
     [
         "///",
@@ -168,9 +162,15 @@
         4
     ],
     [
-        "Kun Ming",
-        "ZPPP",
-        "KMG",
+        "Ngurah Rai",
+        "WADD",
+        "DPS",
+        4
+    ],
+    [
+        "Phu Quoc",
+        "VVPQ",
+        "PQC",
         4
     ],
     [
@@ -198,22 +198,16 @@
         4
     ],
     [
-        "///",
-        "///",
-        "PER",
-        3
+        "NanJing",
+        "ZSNJ",
+        "NKG",
+        4
     ],
     [
-        "///",
-        "///",
-        "FRA",
-        3
-    ],
-    [
-        "///",
-        "///",
-        "YVR",
-        3
+        "Chong Qing",
+        "ZUCK",
+        "CKG",
+        4
     ],
     [
         "GuangZhou",
@@ -222,15 +216,9 @@
         3
     ],
     [
-        "Urumqi Tianshan",
-        "ZWWW",
-        "URC",
-        3
-    ],
-    [
-        "Ngurah Rai",
-        "WADD",
-        "DPS",
+        "Busan",
+        "RKPK",
+        "PUS",
         3
     ],
     [
@@ -240,9 +228,21 @@
         3
     ],
     [
-        "///",
-        "///",
-        "YYZ",
+        "Philippines Clark",
+        "RPLC",
+        "CRK",
+        3
+    ],
+    [
+        "Cebu",
+        "RPVM",
+        "CEB",
+        3
+    ],
+    [
+        "Tai Chung",
+        "RCMQ",
+        "RMQ",
         3
     ]
 ]
