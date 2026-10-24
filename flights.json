@@ -1,6 +1,6 @@
 [
     [
-        "10-23 22:09",
+        "10-24 21:36",
         " ",
         " ",
         " "
@@ -24,40 +24,40 @@
         21
     ],
     [
-        "Narita",
-        "RJAA",
-        "NRT",
-        20
-    ],
-    [
         "Incheon",
         "RKSI",
         "ICN",
         19
     ],
     [
-        "Manila",
-        "RPLL",
-        "MNL",
-        18
+        "Narita",
+        "RJAA",
+        "NRT",
+        19
     ],
     [
         "Kansai",
         "RJBB",
         "KIX",
-        16
+        18
     ],
     [
         "BeiJing",
         "ZBAA",
         "PEK",
-        15
+        16
     ],
     [
         "Singapore",
         "WSSS",
         "SIN",
-        13
+        15
+    ],
+    [
+        "Manila",
+        "RPLL",
+        "MNL",
+        15
     ],
     [
         "Kaohsiung",
@@ -66,33 +66,33 @@
         11
     ],
     [
-        "Haneda",
-        "RJTT",
-        "HND",
-        9
+        "HangZhou",
+        "ZSHC",
+        "HGH",
+        10
     ],
     [
         "Fukuoka",
         "RJFF",
         "FUK",
-        9
-    ],
-    [
-        "Naha",
-        "ROAH",
-        "OKA",
-        7
-    ],
-    [
-        "HangZhou",
-        "ZSHC",
-        "HGH",
-        7
+        8
     ],
     [
         "Kuala Lumpur",
         "WMKK",
         "KUL",
+        8
+    ],
+    [
+        "Haneda",
+        "RJTT",
+        "HND",
+        7
+    ],
+    [
+        "ShangHai HongQiao",
+        "ZSSS",
+        "SHA",
         7
     ],
     [
@@ -104,20 +104,20 @@
     [
         "///",
         "///",
+        "LHR",
+        6
+    ],
+    [
+        "///",
+        "///",
         "SYD",
         6
     ],
     [
-        "BeiJing DaXing",
-        "ZBAD",
-        "PKX",
+        "Ho Chi Minh",
+        "VVTS",
+        "SGN",
         6
-    ],
-    [
-        "Tai Chung",
-        "RCMQ",
-        "RMQ",
-        5
     ],
     [
         "Ha Noi",
@@ -126,15 +126,15 @@
         5
     ],
     [
-        "///",
-        "///",
-        "LHR",
+        "Chengdu Shuangliu",
+        "ZUUU",
+        "CTU",
         5
     ],
     [
-        "Ho Chi Minh",
-        "VVTS",
-        "SGN",
+        "BeiJing DaXing",
+        "ZBAD",
+        "PKX",
         5
     ],
     [
@@ -144,15 +144,9 @@
         5
     ],
     [
-        "ShangHai HongQiao",
-        "ZSSS",
-        "SHA",
-        5
-    ],
-    [
-        "Chengdu Shuangliu",
-        "ZUUU",
-        "CTU",
+        "HaiKou",
+        "ZJHK",
+        "HAK",
         5
     ],
     [
@@ -165,6 +159,24 @@
         "///",
         "///",
         "SFO",
+        4
+    ],
+    [
+        "///",
+        "///",
+        "YVR",
+        4
+    ],
+    [
+        "Naha",
+        "ROAH",
+        "OKA",
+        4
+    ],
+    [
+        "Tai Chung",
+        "RCMQ",
+        "RMQ",
         4
     ],
     [
@@ -198,9 +210,21 @@
         4
     ],
     [
+        "Chong Qing",
+        "ZUCK",
+        "CKG",
+        4
+    ],
+    [
         "///",
         "///",
         "BNE",
+        3
+    ],
+    [
+        "///",
+        "///",
+        "ZRH",
         3
     ],
     [
@@ -210,39 +234,15 @@
         3
     ],
     [
-        "Urumqi Tianshan",
-        "ZWWW",
-        "URC",
+        "Ngurah Rai",
+        "WADD",
+        "DPS",
         3
     ],
     [
-        "Busan",
-        "RKPK",
-        "PUS",
-        3
-    ],
-    [
-        "///",
-        "///",
-        "JFK",
-        3
-    ],
-    [
-        "///",
-        "///",
-        "YYZ",
-        3
-    ],
-    [
-        "Cebu",
-        "RPVM",
-        "CEB",
-        3
-    ],
-    [
-        "Cambodia Phnom Penh",
-        "VDTI",
-        "KTI",
+        "Jeju",
+        "RKPC",
+        "CJU",
         3
     ]
 ]
