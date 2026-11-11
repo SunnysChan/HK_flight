@@ -8,7 +8,7 @@ def get_departures_by_date():
     date_str format: YYYY-MM-DD
     """
     # Convert to required format (YYYYMMDD)
-    formatted_date = (datetime.datetime.now(datetime.UTC)+ datetime.timedelta(hours=4)).strftime("%Y-%m-%d")
+    formatted_date = (datetime.datetime.now(datetime.UTC)+ datetime.timedelta(hours=12)).strftime("%Y-%m-%d")
 
     # API endpoint used by HK Airport site
     url = "https://www.hongkongairport.com/flightinfo-rest/rest/flights"
