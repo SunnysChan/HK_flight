@@ -1,6 +1,6 @@
 [
     [
-        "11-11 07:08",
+        "11-12 00:11",
         " ",
         " ",
         " "
@@ -9,36 +9,36 @@
         "Taipei",
         "RCTP",
         "TPE",
-        30
-    ],
-    [
-        "ShangHai PuDong",
-        "ZSPD",
-        "PVG",
-        19
+        34
     ],
     [
         "Incheon",
         "RKSI",
         "ICN",
-        17
+        18
     ],
     [
         "Narita",
         "RJAA",
         "NRT",
-        17
+        18
+    ],
+    [
+        "ShangHai PuDong",
+        "ZSPD",
+        "PVG",
+        18
     ],
     [
         "Bang Kok",
         "VTBS",
         "BKK",
-        17
+        18
     ],
     [
-        "Kansai",
-        "RJBB",
-        "KIX",
+        "BeiJing",
+        "ZBAA",
+        "PEK",
         15
     ],
     [
@@ -48,16 +48,22 @@
         15
     ],
     [
-        "BeiJing",
-        "ZBAA",
-        "PEK",
-        15
-    ],
-    [
         "Singapore",
         "WSSS",
         "SIN",
-        14
+        13
+    ],
+    [
+        "Kansai",
+        "RJBB",
+        "KIX",
+        13
+    ],
+    [
+        "Fukuoka",
+        "RJFF",
+        "FUK",
+        10
     ],
     [
         "HangZhou",
@@ -72,22 +78,10 @@
         8
     ],
     [
-        "Fukuoka",
-        "RJFF",
-        "FUK",
-        8
-    ],
-    [
         "Kaohsiung",
         "RCKH",
         "KHH",
         8
-    ],
-    [
-        "Kuala Lumpur",
-        "WMKK",
-        "KUL",
-        7
     ],
     [
         "///",
@@ -102,15 +96,9 @@
         6
     ],
     [
-        "BeiJing DaXing",
-        "ZBAD",
-        "PKX",
-        6
-    ],
-    [
-        "Ho Chi Minh",
-        "VVTS",
-        "SGN",
+        "Kuala Lumpur",
+        "WMKK",
+        "KUL",
         6
     ],
     [
@@ -120,9 +108,15 @@
         6
     ],
     [
-        "Ha Noi",
-        "VVNB",
-        "HAN",
+        "///",
+        "///",
+        "SFO",
+        5
+    ],
+    [
+        "///",
+        "///",
+        "MEL",
         5
     ],
     [
@@ -132,15 +126,21 @@
         5
     ],
     [
-        "///",
-        "///",
-        "SYD",
+        "BeiJing DaXing",
+        "ZBAD",
+        "PKX",
+        5
+    ],
+    [
+        "Ho Chi Minh",
+        "VVTS",
+        "SGN",
         5
     ],
     [
         "///",
         "///",
-        "SFO",
+        "SYD",
         4
     ],
     [
@@ -150,27 +150,15 @@
         4
     ],
     [
-        "Busan",
-        "RKPK",
-        "PUS",
-        4
-    ],
-    [
-        "Naha",
-        "ROAH",
-        "OKA",
-        4
-    ],
-    [
         "Delhi",
         "VIDP",
         "DEL",
         4
     ],
     [
-        "Jakarta",
-        "WIII",
-        "CGK",
+        "Ha Noi",
+        "VVNB",
+        "HAN",
         4
     ],
     [
@@ -180,21 +168,33 @@
         4
     ],
     [
-        "Chong Qing",
-        "ZUCK",
-        "CKG",
+        "HaiKou",
+        "ZJHK",
+        "HAK",
+        4
+    ],
+    [
+        "NanJing",
+        "ZSNJ",
+        "NKG",
         4
     ],
     [
         "///",
         "///",
-        "MEL",
+        "ZRH",
         3
     ],
     [
         "GuangZhou",
         "ZGGG",
         "CAN",
+        3
+    ],
+    [
+        "Busan",
+        "RKPK",
+        "PUS",
         3
     ],
     [
@@ -210,15 +210,21 @@
         3
     ],
     [
-        "Phuket",
-        "VTSP",
-        "HKT",
+        "Naha",
+        "ROAH",
+        "OKA",
         3
     ],
     [
-        "Phu Quoc",
-        "VVPQ",
-        "PQC",
+        "Chong Qing",
+        "ZUCK",
+        "CKG",
+        3
+    ],
+    [
+        "Malaysia Penang",
+        "WMKP",
+        "PEN",
         3
     ],
     [
@@ -234,9 +240,15 @@
         3
     ],
     [
-        "NanJing",
-        "ZSNJ",
-        "NKG",
+        "Jakarta",
+        "WIII",
+        "CGK",
+        3
+    ],
+    [
+        "Qing Dao",
+        "ZSQD",
+        "TAO",
         3
     ],
     [
@@ -252,16 +264,16 @@
         3
     ],
     [
-        "Malaysia Penang",
-        "WMKP",
-        "PEN",
-        3
-    ],
-    [
         "Kun Ming",
         "ZPPP",
         "KMG",
         3
+    ],
+    [
+        "///",
+        "///",
+        "AMS",
+        2
     ],
     [
         "///",
@@ -294,15 +306,21 @@
         2
     ],
     [
-        "///",
-        "///",
-        "ZRH",
+        "Urumqi Tianshan",
+        "ZWWW",
+        "URC",
         2
     ],
     [
         "Ngurah Rai",
         "WADD",
         "DPS",
+        2
+    ],
+    [
+        "Phuket",
+        "VTSP",
+        "HKT",
         2
     ],
     [
@@ -318,9 +336,15 @@
         2
     ],
     [
-        "Fu Zhou",
-        "ZSFZ",
-        "FOC",
+        "Phu Quoc",
+        "VVPQ",
+        "PQC",
+        2
+    ],
+    [
+        "///",
+        "///",
+        "WNZ",
         2
     ],
     [
@@ -336,33 +360,9 @@
         2
     ],
     [
-        "Qing Dao",
-        "ZSQD",
-        "TAO",
-        2
-    ],
-    [
         "///",
         "///",
-        "YYZ",
-        2
-    ],
-    [
-        "Xi an",
-        "ZLXY",
-        "XIY",
-        2
-    ],
-    [
-        "///",
-        "///",
-        "WUX",
-        2
-    ],
-    [
-        "///",
-        "///",
-        "AKL",
+        "IST",
         2
     ]
 ]
