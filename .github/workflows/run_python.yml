@@ -3,7 +3,7 @@ name: Auto Run Python Script
 on:
   # Triggers the script every day at midnight UTC
   schedule:
-    - cron: '00 18 * * *'
+    - cron: '00 16 * * *'
   workflow_dispatch: # Allows you to run it manually from the GitHub UI
 
 jobs:
