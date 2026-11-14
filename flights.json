@@ -1,6 +1,6 @@
 [
     [
-        "11-13 21:51",
+        "11-14 20:31",
         " ",
         " ",
         " "
@@ -12,10 +12,10 @@
         34
     ],
     [
-        "ShangHai PuDong",
-        "ZSPD",
-        "PVG",
-        20
+        "Incheon",
+        "RKSI",
+        "ICN",
+        19
     ],
     [
         "Narita",
@@ -24,46 +24,40 @@
         19
     ],
     [
-        "Incheon",
-        "RKSI",
-        "ICN",
+        "ShangHai PuDong",
+        "ZSPD",
+        "PVG",
         18
     ],
     [
         "Bang Kok",
         "VTBS",
         "BKK",
+        18
+    ],
+    [
+        "Kansai",
+        "RJBB",
+        "KIX",
         17
     ],
     [
         "BeiJing",
         "ZBAA",
         "PEK",
-        15
+        16
     ],
     [
         "Manila",
         "RPLL",
         "MNL",
-        14
+        15
     ],
     [
         "Singapore",
         "WSSS",
         "SIN",
-        14
-    ],
-    [
-        "Kansai",
-        "RJBB",
-        "KIX",
-        14
-    ],
-    [
-        "Fukuoka",
-        "RJFF",
-        "FUK",
-        10
+        12
     ],
     [
         "HangZhou",
@@ -84,9 +78,21 @@
         8
     ],
     [
+        "Fukuoka",
+        "RJFF",
+        "FUK",
+        8
+    ],
+    [
         "Kuala Lumpur",
         "WMKK",
         "KUL",
+        8
+    ],
+    [
+        "ShangHai HongQiao",
+        "ZSSS",
+        "SHA",
         7
     ],
     [
@@ -102,22 +108,22 @@
         6
     ],
     [
+        "///",
+        "///",
+        "SYD",
+        6
+    ],
+    [
         "BeiJing DaXing",
         "ZBAD",
         "PKX",
         6
     ],
     [
-        "///",
-        "///",
-        "MEL",
-        5
-    ],
-    [
-        "///",
-        "///",
-        "SYD",
-        5
+        "Ho Chi Minh",
+        "VVTS",
+        "SGN",
+        6
     ],
     [
         "Ha Noi",
@@ -132,16 +138,10 @@
         5
     ],
     [
-        "Ho Chi Minh",
-        "VVTS",
-        "SGN",
-        5
-    ],
-    [
-        "ShangHai HongQiao",
-        "ZSSS",
-        "SHA",
-        5
+        "///",
+        "///",
+        "MEL",
+        4
     ],
     [
         "///",
@@ -156,9 +156,9 @@
         4
     ],
     [
-        "Busan",
-        "RKPK",
-        "PUS",
+        "Phuket",
+        "VTSP",
+        "HKT",
         4
     ],
     [
@@ -198,9 +198,33 @@
         4
     ],
     [
+        "Chong Qing",
+        "ZUCK",
+        "CKG",
+        4
+    ],
+    [
         "///",
         "///",
         "ZRH",
+        3
+    ],
+    [
+        "GuangZhou",
+        "ZGGG",
+        "CAN",
+        3
+    ],
+    [
+        "Ngurah Rai",
+        "WADD",
+        "DPS",
+        3
+    ],
+    [
+        "Busan",
+        "RKPK",
+        "PUS",
         3
     ],
     [
@@ -222,21 +246,15 @@
         3
     ],
     [
-        "Cebu",
-        "RPVM",
-        "CEB",
+        "Malaysia Penang",
+        "WMKP",
+        "PEN",
         3
     ],
     [
         "Chitose",
         "RJCC",
         "CTS",
-        3
-    ],
-    [
-        "Qing Dao",
-        "ZSQD",
-        "TAO",
         3
     ],
     [
@@ -252,21 +270,9 @@
         3
     ],
     [
-        "Malaysia Penang",
-        "WMKP",
-        "PEN",
-        3
-    ],
-    [
         "Kun Ming",
         "ZPPP",
         "KMG",
-        3
-    ],
-    [
-        "Chong Qing",
-        "ZUCK",
-        "CKG",
         3
     ],
     [
@@ -300,24 +306,6 @@
         2
     ],
     [
-        "GuangZhou",
-        "ZGGG",
-        "CAN",
-        2
-    ],
-    [
-        "Ngurah Rai",
-        "WADD",
-        "DPS",
-        2
-    ],
-    [
-        "Phuket",
-        "VTSP",
-        "HKT",
-        2
-    ],
-    [
         "Philippines Clark",
         "RPLC",
         "CRK",
@@ -330,9 +318,9 @@
         2
     ],
     [
-        "Fu Zhou",
-        "ZSFZ",
-        "FOC",
+        "Cebu",
+        "RPVM",
+        "CEB",
         2
     ],
     [
@@ -342,27 +330,39 @@
         2
     ],
     [
-        "Cambodia Phnom Penh",
-        "VDTI",
-        "KTI",
-        2
-    ],
-    [
         "Xiamen",
         "ZSAM",
         "XMN",
         2
     ],
     [
-        "///",
-        "///",
-        "IST",
+        "Qing Dao",
+        "ZSQD",
+        "TAO",
         2
     ],
     [
         "///",
         "///",
         "YYZ",
+        2
+    ],
+    [
+        "Xi an",
+        "ZLXY",
+        "XIY",
+        2
+    ],
+    [
+        "Ningbo",
+        "ZSNB",
+        "NGB",
+        2
+    ],
+    [
+        "///",
+        "///",
+        "WUX",
         2
     ]
 ]
