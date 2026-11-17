@@ -1,6 +1,6 @@
 [
     [
-        "11-15 20:54",
+        "11-17 00:04",
         " ",
         " ",
         " "
@@ -9,24 +9,24 @@
         "Taipei",
         "RCTP",
         "TPE",
-        34
-    ],
-    [
-        "ShangHai PuDong",
-        "ZSPD",
-        "PVG",
-        21
+        32
     ],
     [
         "Bang Kok",
         "VTBS",
         "BKK",
-        19
+        20
     ],
     [
         "Narita",
         "RJAA",
         "NRT",
+        19
+    ],
+    [
+        "ShangHai PuDong",
+        "ZSPD",
+        "PVG",
         18
     ],
     [
@@ -42,22 +42,28 @@
         17
     ],
     [
+        "Manila",
+        "RPLL",
+        "MNL",
+        15
+    ],
+    [
         "BeiJing",
         "ZBAA",
         "PEK",
         15
     ],
     [
-        "Manila",
-        "RPLL",
-        "MNL",
-        14
-    ],
-    [
         "Singapore",
         "WSSS",
         "SIN",
-        14
+        13
+    ],
+    [
+        "Kaohsiung",
+        "RCKH",
+        "KHH",
+        10
     ],
     [
         "Fukuoka",
@@ -78,22 +84,10 @@
         8
     ],
     [
-        "Kaohsiung",
-        "RCKH",
-        "KHH",
-        8
-    ],
-    [
         "Kuala Lumpur",
         "WMKK",
         "KUL",
-        8
-    ],
-    [
-        "///",
-        "///",
-        "LHR",
-        6
+        7
     ],
     [
         "///",
@@ -102,9 +96,9 @@
         6
     ],
     [
-        "///",
-        "///",
-        "SYD",
+        "Ho Chi Minh",
+        "VVTS",
+        "SGN",
         6
     ],
     [
@@ -114,9 +108,15 @@
         6
     ],
     [
-        "Ha Noi",
-        "VVNB",
-        "HAN",
+        "///",
+        "///",
+        "LHR",
+        5
+    ],
+    [
+        "///",
+        "///",
+        "MEL",
         5
     ],
     [
@@ -126,9 +126,9 @@
         5
     ],
     [
-        "Ho Chi Minh",
-        "VVTS",
-        "SGN",
+        "BeiJing DaXing",
+        "ZBAD",
+        "PKX",
         5
     ],
     [
@@ -144,27 +144,15 @@
         4
     ],
     [
-        "Naha",
-        "ROAH",
-        "OKA",
-        4
-    ],
-    [
-        "Chong Qing",
-        "ZUCK",
-        "CKG",
-        4
-    ],
-    [
-        "BeiJing DaXing",
-        "ZBAD",
-        "PKX",
-        4
-    ],
-    [
         "Delhi",
         "VIDP",
         "DEL",
+        4
+    ],
+    [
+        "Ha Noi",
+        "VVNB",
+        "HAN",
         4
     ],
     [
@@ -184,18 +172,6 @@
         "ZSNJ",
         "NKG",
         4
-    ],
-    [
-        "///",
-        "///",
-        "FRA",
-        3
-    ],
-    [
-        "///",
-        "///",
-        "MEL",
-        3
     ],
     [
         "GuangZhou",
@@ -222,9 +198,9 @@
         3
     ],
     [
-        "Phuket",
-        "VTSP",
-        "HKT",
+        "Naha",
+        "ROAH",
+        "OKA",
         3
     ],
     [
@@ -246,15 +222,21 @@
         3
     ],
     [
-        "Qing Dao",
-        "ZSQD",
-        "TAO",
+        "Chitose",
+        "RJCC",
+        "CTS",
         3
     ],
     [
-        "HaiKou",
-        "ZJHK",
-        "HAK",
+        "///",
+        "///",
+        "SYD",
+        3
+    ],
+    [
+        "Qing Dao",
+        "ZSQD",
+        "TAO",
         3
     ],
     [
@@ -270,9 +252,21 @@
         3
     ],
     [
+        "Chong Qing",
+        "ZUCK",
+        "CKG",
+        3
+    ],
+    [
+        "HaiKou",
+        "ZJHK",
+        "HAK",
+        3
+    ],
+    [
         "///",
         "///",
-        "ADD",
+        "FRA",
         2
     ],
     [
@@ -306,6 +300,12 @@
         2
     ],
     [
+        "Phuket",
+        "VTSP",
+        "HKT",
+        2
+    ],
+    [
         "Philippines Clark",
         "RPLC",
         "CRK",
@@ -330,12 +330,6 @@
         2
     ],
     [
-        "Chitose",
-        "RJCC",
-        "CTS",
-        2
-    ],
-    [
         "Wu Han",
         "ZHHH",
         "WUH",
@@ -348,12 +342,6 @@
         2
     ],
     [
-        "Sanya",
-        "ZJSY",
-        "SYX",
-        2
-    ],
-    [
         "Xiamen",
         "ZSAM",
         "XMN",
@@ -363,6 +351,18 @@
         "///",
         "///",
         "IST",
+        2
+    ],
+    [
+        "///",
+        "///",
+        "YYZ",
+        2
+    ],
+    [
+        "Ningbo",
+        "ZSNB",
+        "NGB",
         2
     ]
 ]
