@@ -1,6 +1,6 @@
 [
     [
-        "11-18 22:53",
+        "11-19 22:57",
         " ",
         " ",
         " "
@@ -9,19 +9,13 @@
         "Taipei",
         "RCTP",
         "TPE",
-        33
+        35
     ],
     [
         "ShangHai PuDong",
         "ZSPD",
         "PVG",
-        21
-    ],
-    [
-        "Narita",
-        "RJAA",
-        "NRT",
-        19
+        20
     ],
     [
         "Bang Kok",
@@ -36,21 +30,27 @@
         18
     ],
     [
-        "Manila",
-        "RPLL",
-        "MNL",
-        16
+        "Narita",
+        "RJAA",
+        "NRT",
+        18
     ],
     [
         "Kansai",
         "RJBB",
         "KIX",
-        16
+        18
     ],
     [
         "BeiJing",
         "ZBAA",
         "PEK",
+        15
+    ],
+    [
+        "Manila",
+        "RPLL",
+        "MNL",
         15
     ],
     [
@@ -63,7 +63,13 @@
         "Fukuoka",
         "RJFF",
         "FUK",
-        10
+        9
+    ],
+    [
+        "Kaohsiung",
+        "RCKH",
+        "KHH",
+        9
     ],
     [
         "Haneda",
@@ -72,21 +78,15 @@
         8
     ],
     [
-        "HangZhou",
-        "ZSHC",
-        "HGH",
-        8
-    ],
-    [
-        "Kaohsiung",
-        "RCKH",
-        "KHH",
-        8
-    ],
-    [
         "Kuala Lumpur",
         "WMKK",
         "KUL",
+        8
+    ],
+    [
+        "HangZhou",
+        "ZSHC",
+        "HGH",
         7
     ],
     [
@@ -102,9 +102,15 @@
         6
     ],
     [
-        "Ho Chi Minh",
-        "VVTS",
-        "SGN",
+        "///",
+        "///",
+        "SYD",
+        6
+    ],
+    [
+        "BeiJing DaXing",
+        "ZBAD",
+        "PKX",
         6
     ],
     [
@@ -114,16 +120,28 @@
         6
     ],
     [
-        "///",
-        "///",
-        "MEL",
+        "Ha Noi",
+        "VVNB",
+        "HAN",
         5
     ],
     [
-        "BeiJing DaXing",
-        "ZBAD",
-        "PKX",
+        "Chengdu Shuangliu",
+        "ZUUU",
+        "CTU",
         5
+    ],
+    [
+        "Ho Chi Minh",
+        "VVTS",
+        "SGN",
+        5
+    ],
+    [
+        "///",
+        "///",
+        "MEL",
+        4
     ],
     [
         "///",
@@ -138,33 +156,21 @@
         4
     ],
     [
+        "Phuket",
+        "VTSP",
+        "HKT",
+        4
+    ],
+    [
         "Naha",
         "ROAH",
         "OKA",
         4
     ],
     [
-        "Chengdu Shuangliu",
-        "ZUUU",
-        "CTU",
-        4
-    ],
-    [
         "Delhi",
         "VIDP",
         "DEL",
-        4
-    ],
-    [
-        "///",
-        "///",
-        "SYD",
-        4
-    ],
-    [
-        "Ha Noi",
-        "VVNB",
-        "HAN",
         4
     ],
     [
@@ -180,9 +186,15 @@
         4
     ],
     [
-        "HaiKou",
-        "ZJHK",
-        "HAK",
+        "NanJing",
+        "ZSNJ",
+        "NKG",
+        4
+    ],
+    [
+        "Chong Qing",
+        "ZUCK",
+        "CKG",
         4
     ],
     [
@@ -228,33 +240,21 @@
         3
     ],
     [
-        "Chitose",
-        "RJCC",
-        "CTS",
-        3
-    ],
-    [
         "Cambodia Phnom Penh",
         "VDTI",
         "KTI",
         3
     ],
     [
-        "Qing Dao",
-        "ZSQD",
-        "TAO",
-        3
-    ],
-    [
-        "NanJing",
-        "ZSNJ",
-        "NKG",
-        3
-    ],
-    [
         "Tai Chung",
         "RCMQ",
         "RMQ",
+        3
+    ],
+    [
+        "HaiKou",
+        "ZJHK",
+        "HAK",
         3
     ],
     [
@@ -306,12 +306,6 @@
         2
     ],
     [
-        "Phuket",
-        "VTSP",
-        "HKT",
-        2
-    ],
-    [
         "Philippines Clark",
         "RPLC",
         "CRK",
@@ -324,21 +318,15 @@
         2
     ],
     [
-        "Chong Qing",
-        "ZUCK",
-        "CKG",
-        2
-    ],
-    [
-        "Malaysia Penang",
-        "WMKP",
-        "PEN",
-        2
-    ],
-    [
         "Fu Zhou",
         "ZSFZ",
         "FOC",
+        2
+    ],
+    [
+        "Chitose",
+        "RJCC",
+        "CTS",
         2
     ],
     [
@@ -348,21 +336,33 @@
         2
     ],
     [
+        "Sanya",
+        "ZJSY",
+        "SYX",
+        2
+    ],
+    [
         "Xiamen",
         "ZSAM",
         "XMN",
         2
     ],
     [
-        "///",
-        "///",
-        "IST",
+        "Qing Dao",
+        "ZSQD",
+        "TAO",
         2
     ],
     [
         "///",
         "///",
         "YYZ",
+        2
+    ],
+    [
+        "Xi an",
+        "ZLXY",
+        "XIY",
         2
     ]
 ]
